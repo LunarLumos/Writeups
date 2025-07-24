@@ -2,39 +2,40 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 1. **Introduction to Advanced Reconnaissance**
 2. **Certificate Transparency Hunting**
-   2.1 What Is Certificate Transparency?
-   2.2 The Role of CT in Reconnaissance
-   2.3 Data Sources and Logs
-   2.4 Querying Certificate Transparency Logs
-   2.5 Automating CT Recon with Tools and Scripts
-   2.6 Analyzing and Validating CT Data
-   2.7 Practical Use Cases and Case Studies
+    - 2.1 What Is Certificate Transparency?
+    - 2.2 The Role of CT in Reconnaissance
+    - 2.3 Data Sources and Logs  
+    - 2.4 Querying Certificate Transparency Logs  
+    - 2.5 Automating CT Recon with Tools and Scripts  
+    - 2.6 Analyzing and Validating CT Data  
+    - 2.7 Practical Use Cases and Case Studies  
 3. **Cloud Bucket Enumeration**
-   3.1 Cloud Storage Landscape Overview
-   3.2 Why Cloud Buckets Are a Recon Vector
-   3.3 Naming Conventions & Heuristics
-   3.4 Bucket Existence and Access Verification Techniques
-   3.5 Multi-Cloud Enumeration Strategies
-   3.6 Tools and Automation Frameworks
-   3.7 Risk Assessment and Sensitive Data Discovery
-   3.8 Real-World Examples and Impact
+    - 3.1 Cloud Storage Landscape Overview  
+    - 3.2 Why Cloud Buckets Are a Recon Vector  
+    - 3.3 Naming Conventions & Heuristics  
+    - 3.4 Bucket Existence and Access Verification Techniques  
+    - 3.5 Multi-Cloud Enumeration Strategies  
+    - 3.6 Tools and Automation Frameworks  
+    - 3.7 Risk Assessment and Sensitive Data Discovery  
+    - 3.8 Real-World Examples and Impact  
 4. **GitHub Dork Automation**
-   4.1 The Importance of Source Code Recon
-   4.2 GitHub’s Search Capabilities and Limitations
-   4.3 Crafting Effective GitHub Dorks
-   4.4 Leveraging the GitHub API for Large-Scale Recon
-   4.5 Secret Detection Tools and Integrations
-   4.6 Handling Rate Limits and API Constraints
-   4.7 Automating and Scaling GitHub Recon
-   4.8 Post-Processing and Validation Techniques
-   4.9 Ethical Considerations and Responsible Disclosure
+    - 4.1 The Importance of Source Code Recon  
+    - 4.2 GitHub’s Search Capabilities and Limitations  
+    - 4.3 Crafting Effective GitHub Dorks  
+    - 4.4 Leveraging the GitHub API for Large-Scale Recon  
+    - 4.5 Secret Detection Tools and Integrations  
+    - 4.6 Handling Rate Limits and API Constraints  
+    - 4.7 Automating and Scaling GitHub Recon  
+    - 4.8 Post-Processing and Validation Techniques  
+    - 4.9 Ethical Considerations and Responsible Disclosure  
 5. **Building an Integrated Reconnaissance Framework**
 6. **Best Practices, Pitfalls, and Defensive Countermeasures**
 7. **Conclusion and Future Directions**
+
 
 ---
 
